@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964854892542",
+    "project_id": "quixdraft",
+    "storage_bucket": "quixdraft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964854892542:android:39510bb476a5e1dde0a2af",
+        "android_client_info": {
+          "package_name": "com.example.dev_try"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964854892542-7noq1km8q2q9a0s1qpttocm0dr5ddekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fQiB6NGMtZYWJKG3LdHlLTWBRBEAlco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964854892542-7noq1km8q2q9a0s1qpttocm0dr5ddekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
